@@ -5,7 +5,7 @@ This repository contains the implementation of a Facial Emotion Recognition syst
 
 ## Files in the Repository
 
-- **emotion-classification-cnn-using-keras.ipynb**: Jupyter notebook detailing the process of training the AlexNet model with Keras.
+- **emotion-classification-AlexNet-using-keras.ipynb**: Jupyter notebook detailing the process of training the AlexNet model with Keras.
 - **haarcascade_frontalface_default.xml**: XML configuration for Haar Cascade, used to detect faces in the images.
 - **main.py**: The Python script that interfaces with the camera to perform real-time emotion detection using the trained model.
 - **model.h5**: The trained AlexNet model saved in H5 format that predicts emotions from facial expressions.
